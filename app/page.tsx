@@ -1122,11 +1122,6 @@ export default function Home() {
               <p className="text-gray-400 text-sm leading-relaxed mb-6">
                 AI-powered market intelligence for modern investors. Track trends, uncover signals, and make confident decisions with real-time insights.
               </p>
-              <div className="space-y-2 text-sm text-gray-400">
-                <p>HQ: 245 Market Ave, San Francisco, CA</p>
-                <p>Support: support@stonks.ai</p>
-                <p>Phone: (415) 555-0199</p>
-              </div>
             </div>
 
             {/* Product */}
